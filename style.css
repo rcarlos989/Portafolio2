@@ -114,7 +114,7 @@ main{
     width: 120px;
 }
 .copiar:hover{
-    background-color: #0A3871;
+    background: #0A3871;
     transform: scale(1.2);
     color: white;
 }
