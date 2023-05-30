@@ -92,10 +92,7 @@ main{
     transform: scale(1.2);
     color:#00aae4;
 
-.copiar:hover{
-    background: #0A3871;
-    transform: scale(1.2);
-    color:white;
+
 }
 }
 .botones2{
@@ -116,8 +113,11 @@ main{
     position: fixed;
     width: 120px;
 }
-
-
+.copiar:hover{
+    background-color: #0A3871;
+    transform: scale(1.2);
+    color: white;
+}
 .informacion{
     color: black;
     font-size: 18px;
